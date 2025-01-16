@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/vinay-begar/3-column-preview)
-- Live Site URL: [Vercel Link](https://recipe-page-tau-eight.vercel.app/)
+- Live Site URL: [Vercel Link](https://3-column-preview-fdsp.vercel.app/)
 
 ### ScreenShot
 
