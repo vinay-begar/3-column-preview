@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe Page
+# Frontend Mentor - 3 Column Preview
 ## Welcome! 👋
 
 ### Links
